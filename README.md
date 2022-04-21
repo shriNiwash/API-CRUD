@@ -1,5 +1,8 @@
 # Getting started with CRUD Operation
 
+To run the application we have to install Express Module in the system
+which can be installed as by writting (npm i express) in the terminal..Then only the application can be used.
+
 # You can run the application by writting
 
 # 'node app.js'
