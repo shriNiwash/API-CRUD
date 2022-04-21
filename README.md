@@ -23,7 +23,7 @@ The all the operations listed below,with the specific URL,
 # POST:- (http://localhost:3000/books)
 To add new data on the database.
 
-# GET:- (http://localhost:3000/books)
+# GET:- (http://localhost:3000/books/list)
 To fetch all the data over database.
 
 # GET:- (http://localhost:3000/books/list/625fedc281912f789c4feab1)
